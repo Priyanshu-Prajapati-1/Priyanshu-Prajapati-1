@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-prajapati-1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-prajapati-1" /> </p>
 
-- 🌱 I’m currently learning **J**
+- 🌱 I’m currently learning 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
